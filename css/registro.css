@@ -1,0 +1,23 @@
+body{
+  width: 100%;
+  height: 700px;  
+  background-size: cover;
+  background-color: #E7B4B4;  
+}
+
+#frmRegistro{
+	margin-top: -8px;
+}
+
+#usuario, #password{
+	margin-bottom: 10px;
+}
+
+#registro, #regresar{
+	margin-top: 10px;
+} 
+
+#regresar{
+	margin-left: 8px;
+}
+
